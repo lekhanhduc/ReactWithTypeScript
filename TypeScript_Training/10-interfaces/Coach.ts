@@ -1,0 +1,3 @@
+interface Coach {
+    getDailyWorkout () : string;
+}

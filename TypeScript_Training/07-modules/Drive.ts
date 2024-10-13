@@ -1,0 +1,1 @@
+let myCustomer = new Customer3("Khanh", "Duc");
